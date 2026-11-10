@@ -23,3 +23,7 @@ features:
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
+## 文章
+
+- [第一篇文章](/posts/first)
+- [Linux 学习笔记](/posts/linux-notes)
